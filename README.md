@@ -67,15 +67,8 @@ Socket programming finds applications in various domains, including web developm
 
 ## Output
 
-## Client
+<img width="1280" height="202" alt="image" src="https://github.com/user-attachments/assets/1a40a0ae-ca69-4e77-927a-4ebfd5dd3986" />
 
-<img width="548" height="128" alt="prog 3" src="https://github.com/user-attachments/assets/c4b30230-2680-4efa-8d64-86d7fef12fa9" />
-
-
-
-## Server
-
-<img width="923" height="242" alt="prog 4" src="https://github.com/user-attachments/assets/c850c868-0994-4711-9b6c-b0f0f441bf65" />
 
 
 ## Result:
